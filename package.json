@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/pengv1nu/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pengv1nu/frontend-project-44/actions)",
   "main": "index.js",
-    "scripts": {
-  "start": "node bin/brain-games.js"
+  "scripts": {
+    "start": "node bin/brain-games.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,8 @@
   "homepage": "https://github.com/pengv1nu/frontend-project-44#readme",
   "bin": {
     "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
-

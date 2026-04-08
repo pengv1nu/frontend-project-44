@@ -1,2 +1,3 @@
+![asciicast](https://asciinema.org/a/4x9NogzjBMQNLV9e)
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/pengv1nu/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pengv1nu/frontend-project-44/actions)
